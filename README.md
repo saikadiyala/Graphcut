@@ -11,6 +11,8 @@ Adjacency matrices are written to a file in the same working directory as adj_ma
 
 The program works for both 3*3 and 6*6 patches.
 
+forest.jpg is the input file.
+
 Install the following packages:
 
 1)OpenCV
